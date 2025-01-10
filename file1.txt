@@ -1,3 +1,0 @@
-hello welcome to the git bash practice test
-
-updating the content of file before pulling request
