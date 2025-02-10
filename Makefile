@@ -8,7 +8,7 @@ CXXFLAGS = -Wall -Wextra -std=c++11
 TARGET = hello
 
 # Source files
-SRC = hello.cpp
+SRC = main.cpp
 
 # Build rule
 all: $(TARGET)
